@@ -1,0 +1,2 @@
+This is just where we house the home screen of the app 
+So it will include the tab views etc. 
